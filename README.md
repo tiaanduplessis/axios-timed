@@ -4,7 +4,7 @@
 [![package downloads](https://img.shields.io/npm/dm/axios-timed.svg?style=flat-square)](https://npmjs.org/package/axios-timed)
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 [![package license](https://img.shields.io/npm/l/axios-timed.svg?style=flat-square)](https://npmjs.org/package/axios-timed)
-[![make a pull request](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![make a pull request](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Greenkeeper badge](https://badges.greenkeeper.io/tiaanduplessis/axios-timed.svg)](https://greenkeeper.io/)
 
 > Time axios requests
 
