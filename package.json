@@ -1,0 +1,26 @@
+{
+  "name": "axios-timed",
+  "version": "1.0.0",
+  "description": "Time axios requests",
+  "main": "dist/axios-timed.js",
+  "umd:main": "dist/axios-timed.umd.js",
+  "module": "dist/axios-timed.mjs",
+  "source": "src/index.js",
+  "repository": "https://github.com/tiaanduplessis/axios-timed",
+  "author": "Tiaan du Plessis <tiaanduplessis@hotmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "microbundle",
+    "dev": "microbundle watch",
+    "lint": "standard --fix src/**/*.js"
+  },
+  "devDependencies": {
+    "microbundle": "^0.10.1",
+    "standard": "^12.0.1"
+  },
+  "keywords": [
+    "axios",
+    "time",
+    "ms"
+  ]
+}
